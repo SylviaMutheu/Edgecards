@@ -51,26 +51,19 @@ Merchants wanting to offer deals, gift cards, and concierge services to Edge cus
 
 ### 📁 Technologies & Tools
 Frontend Development:
-Flutter (for Android & iOS)
-Dart
+Flutter (for Android & iOS); Dart
 
 Backend Development:
-Node.js (TypeScript for enhanced type safety)
-Microservice-based Architecture
+Node.js (TypeScript for enhanced type safety); Microservice-based Architecture
 
 Infrastructure & DevOps:
-Docker (for containerization)
-Kubernetes (for orchestration)
-Terraform (for Infrastructure as Code)
-Ansible (for configuration management)
+Docker (for containerization); Kubernetes (for orchestration); Terraform (for Infrastructure as Code); Ansible (for configuration management)
 
 Version Control & CI/CD:
 Git (internal repositories, milestone-based releases)
 
 API Integrations:
-KCB Bank API (for card applications and P2P transfers)
-Mpesa API (for wallet top-ups and payments)
-Zendesk (for support ticketing and in-app customer care)
+KCB Bank API (for card applications and P2P transfers); Mpesa API (for wallet top-ups and payments); Zendesk (for support ticketing and in-app customer care)
 
 Project Management:
 - Click-Up (for task tracking and sprints)
