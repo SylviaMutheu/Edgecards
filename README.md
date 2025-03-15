@@ -73,11 +73,11 @@ Mpesa API (for wallet top-ups and payments)
 Zendesk (for support ticketing and in-app customer care)
 
 Project Management:
-Click-Up (for task tracking and sprints)
-Agile Methodology (for phased delivery)
+- Click-Up (for task tracking and sprints)
+- Agile Methodology (for phased delivery)
 
 ### 📅 Timeline
-Phase 1 (MVP): 40-45 development days (3 developers working 8 hours/day)
-Phase 2 (Enhanced Wallet Features): 20 additional development days for advanced wallet and group functionalities.
-Phase 3 (Merchant Integration): 25 development days for loyalty programs and Edge Offers.
-Total Development Time: ~90 working days (Excluding weekends and public holidays)
+- Phase 1 (MVP): 40-45 development days (3 developers working 8 hours/day)
+- Phase 2 (Enhanced Wallet Features): 20 additional development days for advanced wallet and group functionalities.
+- Phase 3 (Merchant Integration): 25 development days for loyalty programs and Edge Offers.
+- Total Development Time: ~90 working days (Excluding weekends and public holidays)
