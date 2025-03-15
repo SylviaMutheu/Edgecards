@@ -1,6 +1,6 @@
-**#Edge Cards – Mobile Banking App
+ #Edge Cards – Mobile Banking App
 
-#Overview**
+#Overview
 The Edge Cards project is an end-to-end mobile banking app that is designed to provide Edge customers with a seamless and secure platform through which they can make their financial transactions. The application allows users to apply for Edge cards, manage their digital wallets, track transactions, and interact with advanced financial features such as budget tools and loyalty programs.
 This app is built on a microservice architecture to ensure high availability, scalability, security, and system visibility, with easy expansion of features and minimized rework. The app is supported by both Android and iOS operating systems and supports major financial services such as KCB Bank and Mpesa.
 The app was built in three phases to deliver core wallet functionality first, then extra features and merchant integrations.
